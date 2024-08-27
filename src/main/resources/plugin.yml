@@ -1,0 +1,8 @@
+name: SlimeChunkFinder
+version: '${project.version}'
+main: com.ponchannn.slimechunkfinder.SlimeChunkFinder
+api-version: '1.21'
+commands:
+  slimechunkchecker:
+    description: Slime Chunk Checker commands
+    usage: /slimechunkchecker <set|show>
